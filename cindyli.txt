@@ -1,4 +1,2 @@
 Hello
-This is branch add-readme
-pink
-blue
+Favorite city: Seattle
